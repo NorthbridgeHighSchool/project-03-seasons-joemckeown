@@ -1,0 +1,23 @@
+h1 {
+  color:darkgreen;
+  font-family:cursive;
+}
+
+h2{
+  color:#2b2d42;
+}
+
+a {
+  color:#8d99ae;
+}
+
+a:hover{
+  color:#d90429;
+}
+
+a:visited{
+  color:#5f0f40;
+
+p{
+  color:#577590;
+}
