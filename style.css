@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
 h1 {
   color:darkgreen;
-  font-family:cursive;
+  font-family: Schoolbell;
 }
 
 h2{
@@ -8,16 +9,21 @@ h2{
 }
 
 a {
-  color:#8d99ae;
+  color:#ff0000;
 }
-
+a:link{
+ color: rgb(8, 7, 7)
+}
 a:hover{
-  color:#d90429;
+  color:#0c07ff;
 }
 
 a:visited{
-  color:#5f0f40;
-
+  color:hsl(337, 73%, 22%);
+}
 p{
-  color:#577590;
+  color:#465e74;
+}
+.cards img{
+  max-height: 150px;
 }
